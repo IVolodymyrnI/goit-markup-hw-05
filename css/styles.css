@@ -472,7 +472,7 @@ input:-webkit-autofill {
 .our-team-section .social-icon {
 	fill: currentColor;
 
-	transition: fill 250ms cubic-bezier(0.4, 0, 0.2, 1);
+	transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 .our-team-section .social-link:hover,
